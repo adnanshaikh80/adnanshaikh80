@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnanshaikh80
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning sloy
+- 🌱 I’m currently learning various computer languages 
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me adnanshaik80@gmail.com
 
